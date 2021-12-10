@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  HepsiburadaCaseStudy
+ 
+  Created by Bengi on 31.10.2021.
+
+*/
+
+"appEntity" = "software";
+"bookEntity" = "ebook";
+"movieEntity" = "movie";
+"musicEntity" = "musicTrack";
+

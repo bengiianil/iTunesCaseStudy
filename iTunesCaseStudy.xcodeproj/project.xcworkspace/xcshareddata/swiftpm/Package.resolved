@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DefaultNetworkOperationPackage",
+        "repositoryURL": "https://github.com/Hepsiburada-mobil-iOS-Bootcamp/DefaultNetworkOperationPackage",
+        "state": {
+          "branch": "main",
+          "revision": "3d53e6e3fcbc33862422be43e40d2b684acadc16",
+          "version": null
+        }
+      },
+      {
+        "package": "Lottie",
+        "repositoryURL": "https://github.com/airbnb/lottie-ios",
+        "state": {
+          "branch": "master",
+          "revision": "b0260e6b65fd403adcdce39ecff85fd981b6b578",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
